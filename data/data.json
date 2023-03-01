@@ -1,0 +1,11 @@
+[
+  {
+    "metric": "m1",
+    "category": "test",
+    "label": "County Fips",
+    "title": "County Fips",
+    "sum": true,
+    "subtitle": "County Fips",
+    "related": []
+  }
+]
