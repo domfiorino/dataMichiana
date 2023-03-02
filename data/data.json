@@ -7,5 +7,14 @@
     "sum": true,
     "subtitle": "County Fips",
     "related": []
+  },
+  {
+    "metric": "m2",
+    "category": "test",
+    "label": "Children 5-17 in poverty",
+    "title": "Children 5-17 in poverty",
+    "sum": true,
+    "subtitle": "Children 5-17 in poverty",
+    "related": []
   }
 ]
